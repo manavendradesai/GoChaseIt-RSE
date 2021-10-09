@@ -13,7 +13,7 @@ Directory structure -->
     │   ├── launch                     # launch folder for launch files   
     │   │   ├── robot_descriptionGoChaseIt.launch
     │   │   ├── worldGoChaseIt.launch
-    │   ├── meshes                     # meshes folder for sensors
+    │   ├── meshes                     # meshes folder for the lidar sensor
     │   │   ├── hokuyo.dae
     │   ├── urdf                       # urdf folder for xarco files
     │   │   ├── my_robotGoChaseIt.gazebo
@@ -34,4 +34,4 @@ Directory structure -->
     │   ├── package.xml                # package info                  
     └── media                          # screenshots of the world and the robot
 
-- Link to the video showing the robot chasing a white ball : https://waynestateprod-my.sharepoint.com/:v:/g/personal/hg2963_wayne_edu/EXnVLvYWrnBHnOaJXIqBslgBdzs0opuONdPs-znWKjQP1Q?e=wYTMsd
+- Link to the video showing the robot chasing a white ball (preview is low quality) : https://waynestateprod-my.sharepoint.com/:v:/g/personal/hg2963_wayne_edu/EXnVLvYWrnBHnOaJXIqBslgBdzs0opuONdPs-znWKjQP1Q?e=wYTMsd
