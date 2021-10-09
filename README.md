@@ -1,13 +1,13 @@
 # GoChaseIt-RSE
 Project 2 of the Robotics Software Engineering Nanodegree Program of Udacity. 
 
-Outcomes -->
+## Outcomes -->
 
-- Designed a differential drive robot, with a camera and lidar, in URDF (Unified Robot Description Format) and housed it in a world different from that in Project 1
+- Designed a **differential drive robot, with a camera and lidar**, in URDF (Unified Robot Description Format) and housed it in a world different from that in Project 1
 - Added Gazebo plugins for the robot’s differential drive capability, lidar, and camera
-- Wrote C++ client and server nodes to read the robot's camera image, analyzes it to determine the presence and position of a white ball, and drive the robot towards it
+- Wrote C++ client and server nodes to read the robot's camera image, analyzes it to **determine the presence of a white ball, and drive the robot towards it**
 
-Directory structure -->
+## Directory structure -->
 
     ├── my_robot                       # my_robot package                   
     │   ├── launch                     # launch folder for launch files   
@@ -34,4 +34,6 @@ Directory structure -->
     │   ├── package.xml                # package info                  
     └── media                          # screenshots of the world and the robot
 
-- Link to the video showing the robot chasing a white ball (preview is low quality) : https://waynestateprod-my.sharepoint.com/:v:/g/personal/hg2963_wayne_edu/EXnVLvYWrnBHnOaJXIqBslgBdzs0opuONdPs-znWKjQP1Q?e=wYTMsd
+## Media 
+
+Link to the video showing the robot chasing a white ball (preview is low quality) : https://waynestateprod-my.sharepoint.com/:v:/g/personal/hg2963_wayne_edu/EXnVLvYWrnBHnOaJXIqBslgBdzs0opuONdPs-znWKjQP1Q?e=wYTMsd
