@@ -32,6 +32,6 @@ Directory structure -->
     │   │   ├── DriveToTarget.srv
     │   ├── CMakeLists.txt             # compiler instructions
     │   ├── package.xml                # package info                  
-    └──  
+    └── media                          # screenshots of the world and the robot
 
-- Video link: 
+- Link to the video showing the robot chasing a white ball : https://waynestateprod-my.sharepoint.com/:v:/g/personal/hg2963_wayne_edu/EXnVLvYWrnBHnOaJXIqBslgBdzs0opuONdPs-znWKjQP1Q?e=wYTMsd
