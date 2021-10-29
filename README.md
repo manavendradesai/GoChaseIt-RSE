@@ -1,5 +1,5 @@
 # GoChaseIt-RSE
-Project 2 of the Robotics Software Engineering Nanodegree Program of Udacity. 
+Project 2 of the Robotics Software Engineering Nanodegree Program at Udacity. 
 
 ## Outcomes -->
 
