@@ -1,9 +1,13 @@
 # GoChaseIt-RSE
 Project 2 of the Robotics Software Engineering Nanodegree Program at Udacity. 
 
+## Description --> 
+
+The objective was to build a differential-drive mobile robot that moved toward a white ball, whenever its camera spotted the ball. The robot was to be housed in the world from Project 1. C++ nodes in ROS were to be written to process the robot's camera images, determine the presence of a white ball and drive the robot toward it.
+
 ## Outcomes -->
 
-- Designed a **differential drive robot, with a camera and lidar**, in URDF (Unified Robot Description Format) and housed it in a world different from that in Project 1
+- Designed a **differential-drive robot, with a camera and lidar**, in URDF (Unified Robot Description Format) and housed it in a world different from that in Project 1
 - Added Gazebo plugins for the robot’s differential drive capability, lidar, and camera
 - Wrote C++ client and server nodes to read the robot's camera image, analyzes it to **determine the presence of a white ball, and drive the robot towards it**
 
@@ -29,7 +33,7 @@ Project 2 of the Robotics Software Engineering Nanodegree Program at Udacity.
     │   │   ├── drive_bot.cpp          # takes commands for and runs the differential-drive
     │   │   ├── process_images.cpp     # searches for the white ball and requests drive_bot.cpp for a service to drive the robot 
     │   ├── srv                        # service folder for ROS services
-    │   │   ├── DriveToTarget.srv
+    │   │   ├── DriveToTarget.srv      # sevice that provides information regarding linear and angular velocity of the robot
     │   ├── CMakeLists.txt             # compiler instructions
     │   ├── package.xml                # package info                  
     └── media                          # screenshots of the world and the robot
