@@ -1,9 +1,8 @@
-# GoChaseIt-RSE
-Project 2 of the Robotics Software Engineering Nanodegree Program at Udacity. 
+# GoChaseIt-RSE 
 
 ## Description --> 
 
-The objective was to build a differential-drive mobile robot that moved toward a white ball, whenever its camera spotted the ball. The robot was to be housed in the world from Project 1. C++ nodes in ROS were to be written to process the robot's camera images, determine the presence of a white ball and drive the robot toward it.
+Project 2 of the Robotics Software Engineering Nanodegree Program at Udacity. The objective was to build a differential-drive mobile robot that moved toward a white ball, whenever its camera spotted the ball. The robot was to be housed in the world from Project 1. C++ nodes in ROS were to be written to process the robot's camera images, determine the presence of a white ball and drive the robot toward it.
 
 ## Outcomes -->
 
